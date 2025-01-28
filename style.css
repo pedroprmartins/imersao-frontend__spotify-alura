@@ -58,3 +58,8 @@ body {
     margin-top: 10px;
     flex-direction: column;
 }
+
+.library__content {
+    display: flex;
+    justify-content: space-between;
+}
