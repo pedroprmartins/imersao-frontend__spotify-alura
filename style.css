@@ -44,3 +44,17 @@ body {
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.library {
+    background-color: #121212;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    min-block-size: 40px;
+    padding: 4px 8px;
+    color: #b3b3b3;
+    font-weight: 600px;
+    font-size: 14px;
+    margin-top: 10px;
+    flex-direction: column;
+}
